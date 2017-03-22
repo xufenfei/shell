@@ -20,3 +20,6 @@ else
 
     echo " Backup from gitlab Rep to Ftp is Failed." | mail -s "Backup from gitlalb to ftp Failed."  abc@gmail.com
 fi
+
+
+
